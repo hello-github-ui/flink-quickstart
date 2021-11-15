@@ -1,0 +1,6 @@
+hello java
+hello flink
+hello world
+i am flink
+is analytics and event-driven applications
+how to implement streaming data processing pipelines

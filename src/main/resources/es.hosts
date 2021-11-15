@@ -1,0 +1,6 @@
+es.hosts=swarm-manager:9200,swarm-worker1:9200,swarm-worker2:9200
+es.bulk.flushMaxAction=200
+es.sink.parallelism=1
+# hdfs: hdfs://swarm-manager:9001/text/000000_0, windows: E:/test/hello.txt
+# rawPath=hdfs://swarm-manager:9001/text/000000_0
+rawPath=E:/temp-files/000000_0
